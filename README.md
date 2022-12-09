@@ -1,6 +1,4 @@
-# Flask-OpenAPI3-UI
-
-## My playground for testing Flask-OpenAPI
+# My playground for testing Flask-OpenAPI3-UI
 
 [![Python](https://img.shields.io/badge/python-3.6.1-blue.svg)](https://img.shields.io/badge/python-3.8-blue.svg)
 [![PyPi](https://img.shields.io/pypi/v/Flask-OpenAPI3-UI.svg)](https://pypi.python.org/pypi/Flask-OpenAPI3-UI)
